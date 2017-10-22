@@ -1,0 +1,23 @@
+.profile-pic{
+	max-width: 100%
+}
+
+a:hover {
+	text-decoration: none;
+}
+.first-progress{
+	background-color: rgb(192,192,192);
+}
+.my-navbar{
+	background-color: #191970;
+}
+.navcolor {
+	color: rgb(220,20,60);
+}
+.carousel-item{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-position: center;
+	margin-bottom: 50px;
+}
